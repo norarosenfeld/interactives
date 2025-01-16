@@ -1,0 +1,64 @@
+body {
+    padding-left: 10%;
+    padding-right:10%;
+    background-color: #f0f2f5;
+  }
+  
+  h1 {
+    font-size: 3em;
+    color: #ebc334;
+    font-family: Arial, sans-serif;
+  }
+    #head1 {
+    border: 1px solid #ebc334;
+  }
+  #head2 {
+    border: 1px solid #ebc334;
+  }
+  
+  
+  #byline {
+    font-size: 1.2em;
+    font-family: "Lucida Handwriting", cursive;
+    padding-top: 20px;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+    font-size: 1.3em;
+    line-height: 1.3em;
+    padding-bottom: 20px;
+  }
+  
+  .img-container {
+    width: 100%;
+  }
+  
+  img {
+    margin: auto;
+    display: block;
+  }
+  
+  .cutline {
+    font-size: 10px;
+  }
+  
+  #contact {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+    text-align: center;
+  }
+  
+  /* responsive design */
+  #content {
+    width: 50%;
+    margin: auto;
+  }
+  
+  @media (orientation: portrait) {
+    #content {
+      width: 100%;
+    }
+  }
