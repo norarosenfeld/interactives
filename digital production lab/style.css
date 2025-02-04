@@ -1,0 +1,22 @@
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 5%;
+    background-color: #FFD700
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#head1{
+    border: 3px solid;
+}
+#head2{
+    border: 3px solid
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#byline{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
