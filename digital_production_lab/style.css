@@ -23,3 +23,21 @@ h2 {
 p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+#spotify{
+    font-style: italic;
+    font-size: small;
+}
+#soundcite{
+    font-style: italic;
+    font-size: small;
+}
+#timeline{
+    font-style: italic;
+    font-size: small;
+}
+#contact {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    font-style: italic;
+    text-align: center;}
